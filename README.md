@@ -3,7 +3,7 @@ This projects aims at translating FGDC Content Standard for Digital Geospatial M
 <p>
 <b>Please feel free to contribute to this effort if you are billingual and work with data and metadata!</b>
 
-You can download the spread sheet of terms, edit and uploadback. Email zdefne@usgs.gov if you have any questions.
+You can download the spread sheet of most recent version of elements translation, edit and upload back. Please email zdefne@usgs.gov if you have any questions.
 </p>
 
 The complete list and explanation of CSDGM elements are given at https://www.fgdc.gov/metadata/csdgm/
